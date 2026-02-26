@@ -99,21 +99,3 @@ Correlation Analysis
 
 Statistical Interpretation
 
-📊 Key Insights
-
-Identified positive and negative correlations between variables
-
-Observed data distribution patterns using histograms and density plots
-
-Detected outliers using boxplots
-
-Analyzed category-based comparisons using bar charts
-
-Evaluated linear relationships using scatter and regression plots
-![Monthly Sales Trend](monthly_sales_trend.png)
-
-## Insight
-Sales show a consistent upward trend throughout the year, with the highest performance in December.
-
-## Use Case
-This type of visualization can be used in business reports, management dashboards, and sales performance analysis.
